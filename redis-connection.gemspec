@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = "redis-connection"
+  s.name        = "redis_connection"
   s.summary     = "Redis Connection"
   s.version     = "0.0.1"
   s.authors     = ["Aliaksandr Yakubenka"]
